@@ -1,0 +1,15 @@
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\net6.0\CalculateSquareRoot.exe
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\net6.0\CalculateSquareRoot.deps.json
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\net6.0\CalculateSquareRoot.runtimeconfig.json
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\net6.0\CalculateSquareRoot.dll
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\net6.0\CalculateSquareRoot.pdb
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.csproj.AssemblyReference.cache
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.AssemblyInfoInputs.cache
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.AssemblyInfo.cs
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.csproj.CoreCompileInputs.cache
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.dll
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\refint\CalculateSquareRoot.dll
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.pdb
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\CalculateSquareRoot.genruntimeconfig.cache
+E:\leetProblems\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\net6.0\ref\CalculateSquareRoot.dll
